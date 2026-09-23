@@ -24,8 +24,8 @@ Program memiliki 4 class utama:
 
 ### Konsep PBO yang Digunakan
 
-* **Class & Object** -> menggunakan 4 class dan membuat objek dari masing-masing class.
-* **Atribut & Method** -> menggunakan atribut kelas, atribut instance, serta method untuk menjalankan fungsi program.
-* **Encapsulation & Property** -> saldo rekening menggunakan atribut private __saldo, kemudian diakses melalui @property dan setter.
-* **Class Method** -> digunakan untuk mengubah biaya admin.
-* **Static Method** -> digunakan untuk memvalidasi jenis transaksi
+* **Class & Object** menggunakan 4 class dan membuat objek dari masing-masing class.
+* **Atribut & Method** menggunakan atribut kelas, atribut instance, serta method untuk menjalankan fungsi program.
+* **Encapsulation & Property** saldo rekening menggunakan atribut private __saldo, kemudian diakses melalui @property dan setter.
+* **Class Method** digunakan untuk mengubah biaya admin.
+* **Static Method** digunakan untuk memvalidasi jenis transaksi
