@@ -2,7 +2,7 @@
 
 ### Deskripsi
 
-Program ini merupakan sistem perbankan sederhana yang dibuat menggunakan konsep PBO. Program digunakan untuk mengelola data nasabah, rekening, tabungan, dan transaksi.
+Program yang dibuat merupakan sistem perbankan simple yang dibuat menggunakan konsep PBO. Program digunakan untuk mengelola data nasabah, rekening, tabungan, dan juga transaksi.
 
 Program dapat melakukan beberapa kegiatan dasar seperti:
 
