@@ -4,8 +4,6 @@ Simulasi dari perbankan sederhana dengan menerapkan konsep pemrograman berbasi o
 
 ## Class Diagram
 
-Simpan gambar UML dari draw.io dengan nama `uml-class-diagram.png` di folder yang sama dengan file README ini.
-
 ![Class Diagram Sistem Perbankan](ss/UML.png)
 
 ### Penjelasan Relasi
